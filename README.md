@@ -1,0 +1,1 @@
+In this project i have used the weather api "https://api.openweathermap.org/data/2.5/weather?q=%20mumbai&appid=4a788576a6d7ac1fe1cc8d39a0f313d3&units=metric"from this i get the real tome temperature and other details related to weather
